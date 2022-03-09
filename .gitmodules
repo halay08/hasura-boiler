@@ -1,0 +1,9 @@
+[submodule "hasura-openfaas"]
+	path = hasura-openfaas
+	url = git@github.com:halay08/hasura-openfaas.git
+[submodule "hasura-nextjs"]
+	path = hasura-nextjs
+	url = git@github.com:halay08/hasura-nextjs.git
+[submodule "hasura-refine.dev"]
+	path = hasura-refine.dev
+	url = git@github.com:halay08/hasura-refine.dev.git
