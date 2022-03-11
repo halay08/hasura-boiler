@@ -7,3 +7,6 @@
 [submodule "hasura-refine.dev"]
 	path = hasura-refine.dev
 	url = git@github.com:halay08/hasura-refine.dev.git
+[submodule "hasura-common"]
+	path = hasura-common
+	url = git@github.com:halay08/hasura-common.git
